@@ -1,2 +1,0 @@
-# symthink.github.io
-jhg
